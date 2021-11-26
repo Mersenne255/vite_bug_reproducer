@@ -1,0 +1,4 @@
+- Run `npm run start`
+- Open site on iOS 14 device.
+- See that web worker is not loaded and not replying to messages
+- Check logs
